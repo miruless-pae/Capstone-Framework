@@ -6,7 +6,7 @@ NestJS + TypeORM + PostgreSQL, dengan pola yang sama seperti proyek `build-frame
 
 Struktur database dan ERD: [docs/DATABASE.md](docs/DATABASE.md).
 
-## Menjalankan
+## Tools Menjalankan Project 
 
 Butuh Node.js 22+ dan Docker.
 
