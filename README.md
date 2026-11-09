@@ -89,7 +89,7 @@ Tiap putaran ia mengambil jadwal berstatus `scheduled` yang `scheduled_at`-nya s
 | Env | Default | Arti |
 |---|---|---|
 | `SCHEDULER_ENABLED` | `true` | `false` untuk mematikan job (mis. di instance khusus API) |
-| `SCHEDULER_INTERVAL_MS` | `30000` | jeda antar pemeriksaan (min. 1000) |
+| `SCHEDULER_INTERVAL_MS` | `30000` | jeda antar pemeriksaan (minimal 1000) |
 | `SCHEDULER_BATCH_SIZE` | `20` | maks. jadwal yang diambil per putaran |
 
 Perilakunya:
