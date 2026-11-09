@@ -35,7 +35,7 @@ npm run lint
 { "success": false, "statusCode": 400, "message": "Validation failed", "errors": ["..."] }
 ```
 
-Semua endpoint butuh header `Authorization: Bearer <accessToken>` kecuali yang ditandai publik.
+Semua endpoint butuh header `Authorization: Bearer <accessToken>` kecuali yang ditandai sebagai publik.
 
 ## Endpoint
 
